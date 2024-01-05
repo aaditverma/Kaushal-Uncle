@@ -1,0 +1,19 @@
+.main-background{
+    z-index: 2;
+}
+
+.main-background img.background-image{
+    width: 100%;
+    
+    object-fit: contain;
+
+    height: auto;
+    
+}
+
+.main-background img.logo-image{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    border-radius: 25px;
+}
